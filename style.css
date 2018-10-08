@@ -1,0 +1,29 @@
+.key {
+    font-family: 'Arvo', serif;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+body{
+    background-color:#a9d1da;
+}
+.btn-info{
+    color: black;
+    background-image: url("images/keyboard-key.png");
+    background-size: cover;
+    background-color: white;
+    border-color: white;
+}
+.btn-info1{
+    color: black;
+    background-image: url("images/space-bar-key.png");
+    background-size: cover;
+    background-color: white;
+    border-color: white;
+}
+.container{
+    text-align: center;
+    background-color: white;
+}
